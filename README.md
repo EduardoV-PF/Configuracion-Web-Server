@@ -13,6 +13,6 @@ Se trata de una configuración de un servidor en microsoft azure, el cual esta c
 
 
 <h3 align="left">Herramientas Utilizadas:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/es-es" target="_blank" rel="noreferrer"> <img src="[https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="https://azure.microsoft.com/es-es" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="android" width="40" height="40"/> </a>
 
 
